@@ -1,12 +1,14 @@
   
  
-# CAS 570, *Fundamentals of Complex Adaptive Systems science*
-## Computational Project, FallC 2023 Term
-## William Tolson, ASU Interdisciplinary Studies MA
+## CAS 570, *Fundamentals of Complex Adaptive Systems science*
+**Computational Project, FallC 2023 Term**  
+**William Tolson, ASU Interdisciplinary Studies MA**
 
 This notebook uses scikit-learn 1.3.2 to train a decision tree on data conveying survey opinions about advanced technologies to begin an investigation into the socio-technological complex adaptive systems behind the public acceptance of AI technologies. Adapted in part from "Training of a Decision Tree with Scikit-Learn" by Dr. Enrico Borriello.
 
 *Recommended environment is JupyterLab:* https://jupyter.org/ 
+
+***************************************************************************************************************************
 
 ## DATA SOURCE
 
